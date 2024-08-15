@@ -1,5 +1,12 @@
 # README do Projeto
 
+## Participantes
+
+- Enricco Rossi de Souza Carvalho Miranda - RM51717
+- Gabriel Marquez Trevisan - RM99227
+- Guilherme Silva dos Santos - RM551168
+- Kayque Moraes Dias - RM97592
+
 ## Visão Geral
 
 Este projeto é uma simples implementação de um sistema de gerenciamento de alunos utilizando classes Java. O projeto inclui três classes:
